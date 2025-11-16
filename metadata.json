@@ -1,0 +1,5 @@
+{
+  "name": " BhaktRaj GST Invoice Generator",
+  "description": "A comprehensive, frontend-only GST billing web application for creating, managing, and printing professional invoices. Due to platform limitations, this application does not include a backend or a database; all data is managed client-side and will be reset on page refresh.",
+  "requestFramePermissions": []
+}
